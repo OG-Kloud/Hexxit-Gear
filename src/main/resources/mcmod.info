@@ -1,0 +1,21 @@
+[
+{
+    "modid": "kloudspace.kloudgear",
+    "name": "Hexxit Gear",
+    "description": "Special gear designed to work in conjuction with the Hexxit modpack.",
+    "mcversion": "1.7.10",
+    "version": "1.7.10build1.0",
+    "url": "https://kloudspace/downloads",
+    "updateUrl": "",
+    "authors": [
+        "sct, CheapShot, Kloud"
+    ],
+    "credits": "By sct. Artwork by Cheapshot. Update by Kloud",
+    "logoFile": "/hexxitgear.png",
+    "screenshots": [
+    ],
+    "parent":"",
+    "dependencies": [
+    ]
+}
+]

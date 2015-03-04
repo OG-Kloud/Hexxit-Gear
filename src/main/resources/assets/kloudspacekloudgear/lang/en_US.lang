@@ -1,0 +1,18 @@
+item.hexicalEssence.name=Hexical Essence
+item.hexicalDiamond.name=Hexical Diamond
+item.scaleHelmet.name=Scale Helmet
+item.scaleChest.name=Scale ChestPlate
+item.scaleLeggings.name=Scale Leggings
+item.scaleBoots.name=Scale Boots
+item.thiefHelmet.name=Thief's Hood
+item.thiefChest.name=Thief's Robe
+item.thiefLeggings.name=Thief's Leggings
+item.thiefBoots.name=Thief's Shoes
+item.tribalHelmet.name=Tribal Bone Cap
+item.tribalChest.name=Tribal Tunic
+item.tribalLeggings.name=Tribal Leggings
+item.tribalBoots.name=Tribal Boots
+
+tile.hexibiscus.name=Hexibiscus
+
+itemGroup.tabKloud=HexxitGear Tab
