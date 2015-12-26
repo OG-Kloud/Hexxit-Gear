@@ -1,21 +1,16 @@
 [
 {
-    "modid": "hexxitgear",
-    "name": "Hexxit Gear",
-    "description": "Special gear designed to work in conjuction with the Hexxit modpack.",
-    "mcversion": "1.7.10",
-    "version": "1.0",
-    "url": "https://kloudspace.net",
-    "updateUrl": "",
-    "authors": [
-        "sct"
-    ],
-    "credits": "By sct. Artwork by Cheapshot. Updated by Kloud.",
-    "logoFile": "/hexxitgear.png",
-    "screenshots": [
-    ],
-    "parent":"",
-    "dependencies": [
-    ]
+  "modid": "hg",
+  "name": "Kloud Gear",
+  "description": "Special gear designed to work in conjuction with the Hexxit modpack.",
+  "version": "1.8.0",
+  "mcversion": "1.8.0",
+  "url": "https://mods.io/mods/1128-hexxit-gear-revisited",
+  "updateUrl": "",
+  "authorList": ["Kloud, sct, CheapShot"],
+  "credits": "The Forge and FML guys, for making the Forge and FML libray's respectivly",
+  "logoFile": "hexxitgear",
+  "screenshots": [],
+  "dependencies": []
 }
 ]
