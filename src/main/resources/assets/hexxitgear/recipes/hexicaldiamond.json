@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    "EDE",
+	" E "
+  ],
+  "key": {
+    "E": {
+      "item": "hexxitgear:hexessence"
+    },
+    "D": [
+      {
+      "item": "minecraft:diamond"
+      }
+    ]
+  },
+  "result": {
+    "item": "hexxitgear:hexdiamond",
+    "data": 0
+  }
+}

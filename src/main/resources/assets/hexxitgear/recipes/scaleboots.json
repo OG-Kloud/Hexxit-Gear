@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GHG",
+    "O O"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+	"H": {
+	  "item": "hexxitgear:hexdiamond"
+	},
+    "G": [
+      {
+      "item": "minecraft:gold_ingot"
+      }
+    ]
+  },
+  "result": {
+    "item": "hexxitgear:scaleboots",
+    "data": 0
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LHL",
+    "BLB",
+    "L L"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bone"
+    },
+	"H": {
+	  "item": "hexxitgear:hexdiamond"
+	},
+    "L": [
+      {
+      "item": "minecraft:leather"
+      }
+    ]
+  },
+  "result": {
+    "item": "hexxitgear:triballegs",
+    "data": 0
+  }
+}

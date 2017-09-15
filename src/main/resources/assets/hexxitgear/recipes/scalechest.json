@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G G",
+    "OHO",
+    "GOG"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+	"H": {
+	  "item": "hexxitgear:hexdiamond"
+	},
+    "G": [
+      {
+      "item": "minecraft:gold_ingot"
+      }
+    ]
+  },
+  "result": {
+    "item": "hexxitgear:scalechest",
+    "data": 0
+  }
+}

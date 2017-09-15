@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WHW",
+    "L L",
+    "W W"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:wool",
+	  "data": 14
+    },
+	"H": {
+	  "item": "hexxitgear:hexdiamond"
+	},
+    "L": [
+      {
+      "item": "minecraft:leather"
+      }
+    ]
+  },
+  "result": {
+    "item": "hexxitgear:thieflegs",
+    "data": 0
+  }
+}
