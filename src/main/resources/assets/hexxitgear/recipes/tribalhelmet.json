@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BHB",
+    "B B"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bone"
+    },
+	"H": {
+	  "item": "hexxitgear:hexdiamond"
+	}
+  },
+  "result": {
+    "item": "hexxitgear:tribalhelmet",
+    "data": 0
+  }
+}
